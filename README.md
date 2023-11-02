@@ -1,7 +1,7 @@
 # final_bootcamp2
  Despliegue a Prod - proyecto bootcamp
 
-# Proyecto Aldo Texis - Cine
+## Proyecto Aldo Texis - Cine
 
 1. Crea un ambiente virtual:
 ```
